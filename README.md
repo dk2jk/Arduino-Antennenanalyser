@@ -6,7 +6,7 @@ Der Antennenanalyser besteht aus einer Ohmschen SWR Messbr&uuml;cke('Resistive S
 Die Einstellung der Frequenz und die Messung der Br&uuml;ckenspannung erfolgt &uuml;ber einen Arduino - Mikrocontroller.
 Ein PC dient zur Anzeige und Bedienung.
 
-<a href="https://github.com/dk2jk/arduino_antennenanalyser/blob/master/documents/beschreibung.pdf">->Beschreibung</a>
+<a href="https://github.com/dk2jk/arduino_antennenanalyser/tree/master/documents">->Beschreibung</a>
 
 Bedienprogramm VNA.exe:
 siehe: Abschnitt:&nbsp; "VNA PC Software"  in: <a href="http://www.dg7eao.de/arduino/antennen-analysator/">http://www.dg7eao.de/arduino/antennen-analysator/</a>
