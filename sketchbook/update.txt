@@ -1,0 +1,11 @@
+/***
+ * update 12 02 2016 Version "dds_sweeper2_2"
+ * - Korrektur Tunefunktion 't' und Funktion 'c' ( On/off DDS)
+ Version "dds_sweeper2_1" ist gelöscht
+ * 
+   update 16 01 2016 Version "dds_sweeper2_1"
+   - bakengeschwindigkeit von 18 auf 12 wpm erniedrigt.
+   - dds_off() bei ende des sweep
+   - dds_off() bei beliebiger taste
+   - befehl 't' = "tune": sendet traeger mit der startfrequenz ( 'a' oder 'c' )
+*/
